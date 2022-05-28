@@ -1,0 +1,431 @@
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0px;
+    padding: 0px;
+}
+/* navbar */
+.abc{
+    
+    margin-left: 116px;
+    padding-right: 100px !important;
+    
+    width: 80%;
+
+} 
+/* navbar ses */
+.slideimg{
+    width: 100%;
+    height: 550px;
+    background-size: cover;
+}
+.ntext{
+    border-radius: 10px;
+   background-color: rgb(253, 253, 253);
+   padding: 2px 2px 2px 2px;
+}
+.nntext{
+    border-radius: 10px;
+    border: 2px solid lightgrey;
+    padding: 1px 1px 1px 1px;
+    margin-right: 5px;
+   background-color: rgb(160, 238, 14);
+   color: cornsilk;
+}
+.ntext:hover{
+    color: rgb(241, 158, 158);
+    padding: 5px;
+    border-radius: 10px;
+    
+}
+.nntext:hover{
+    color: rgb(170, 238, 115);
+    background-color: lightgrey;
+    padding: 2px;
+    border-radius: 10px;
+    transition: 1s;
+    border: 2px solid rgb(248, 17, 52);
+    
+}
+.asdf{
+    background-color: rgb(132, 241, 181);
+    color: rgb(68, 34, 216);
+    fon
+}
+/* service */
+/* service ses */
+
+/* photo */
+img.card-img-top {
+    height: 200px;
+}
+/* photo ses */
+/* tem card */
+.team{
+    text-align: center;
+    color: oldlace;
+    text-shadow: magenta;
+    background-color: silver;
+}
+.tem{
+    display:inline-flex;
+    background-color: lightslategray;
+}
+.allcard{
+    background-color: black;
+    padding-bottom: 3px;
+}
+.card1{
+    height: 531px;
+    width: 300px;
+    text-align: center;
+    padding: 19px;
+    box-shadow: 2px 2px 0px black;
+    
+  
+    color: #fff;
+}
+.card1 img{
+    height: 200px;
+	width: 100%;
+    box-shadow: 4px 4px 5px rgb(160, 6, 6);
+    margin-bottom: 12px;
+    border-radius: 25px;
+}
+.card1 h1{
+    background: linear-gradient(45deg, black, transparent);
+    color: #fff;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    box-shadow: 5px 8px 9px black;
+}
+.card1 h3{
+text-shadow: 6px 2px 3px black;
+    font-size: 45px;
+    color: #fff;
+}
+.card1 p{
+	text-align: justify;
+    padding: 16px;
+}
+.card1 button{
+	background: linear-gradient(45deg, rgba(252, 252, 252, 0.966), transparent);
+    color: #fff;
+    border: none;
+    padding: 10px;
+    margin-bottom: 12px;
+   
+    border-radius: 10px;
+    width: 161px;
+	outline:none;
+	text-transform:capitalize;
+	box-shadow: 5px 6px 4px black;
+}
+.card1 button:hover{
+	background: linear-gradient(to left, rgb(25, 9, 245), transparent);
+}
+.card1 img:hover{
+	    border-radius: 21px;
+		transition:2s;
+}
+.card2{
+    height: 531px;
+    width: 300px;
+    text-align: center;
+    padding: 19px;
+    box-shadow: 2px 2px 0px black;
+    
+    margin-left:10px;
+   
+    color: #fff;
+}
+.card2 img{
+    height: 200px;
+	width: 100%;
+    box-shadow: 4px 8px 9px rgb(240, 69, 148);
+    margin-bottom: 12px;
+    border-radius: 25px;
+}
+.card2 h1{
+    background: linear-gradient(45deg, black, transparent);
+    color: #fff;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    box-shadow: 5px 8px 9px black;
+}
+.card2 h3{
+text-shadow: 6px 2px 3px black;
+    font-size: 45px;
+    color: #fff;
+}
+.card2 p{
+	text-align: justify;
+    padding: 16px;
+}
+.card2 button{
+	background: linear-gradient(45deg, green, transparent);
+    color: #fff;
+    border: none;
+    padding: 10px;
+    margin-bottom: 12px;
+    
+   
+    border-radius: 10px;
+    width: 161px;
+	outline:none;
+	text-transform:capitalize;
+	box-shadow: 5px 6px 4px black;
+}
+.card2 button:hover{
+	background: linear-gradient(to left, rgb(196, 193, 235), transparent);
+}
+.card2 img:hover{
+	    border-radius: 20px;
+		transition:2s;
+}
+.card3{
+    height: 531px;
+    width: 300px;
+    text-align: center;
+    padding: 19px;
+    box-shadow: 1px 1px 1px rgb(15, 14, 15);
+    
+    margin-left: 10px;
+    
+    color: #fff;
+}
+.card3 img{
+	    width:100%;
+    height:200px;
+    box-shadow: 4px 4px 5px rgb(55, 24, 230);
+    margin-bottom: 12px;
+    height: 200px;
+    border-radius: 25px;
+}
+.card3 h1{
+    background: linear-gradient(45deg, black, transparent);
+    color: #fff;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    box-shadow: 5px 8px 9px black;
+}
+.card3 h3{
+text-shadow: 6px 2px 3px black;
+    font-size: 45px;
+    color: #fff;
+}
+.card3 p{
+	text-align: justify;
+    padding: 16px;
+}
+.card3 button{
+	background: linear-gradient(45deg, rgb(233, 19, 19), transparent);
+    color: #fff;
+    border: none;
+    padding: 10px;
+    margin-bottom: 12px;
+   
+    border-radius: 10px;
+    width: 161px;
+	outline:none;
+	text-transform:capitalize;
+	box-shadow: 5px 6px 4px black;
+}
+.card3 button:hover{
+	background: linear-gradient(to left, rgb(7, 114, 25), transparent);
+}
+.card3 img:hover{
+	    border-radius: 21px;
+		transition:2s;
+}
+.card4{
+    height: 531px;
+    width: 300px;
+    text-align: center;
+    padding: 19px;
+    box-shadow: 4px 4px 0px black;
+    
+     margin-left: 10px;
+    color: #fff;
+}
+.card4 img{
+        width: 100%;
+        height: 200px;
+    box-shadow: 4px 4px 5px rgb(206, 66, 11);
+    margin-bottom: 12px;
+    border-radius: 25px;
+    border-radius: 25px;
+}
+.card4 h1{
+    background: linear-gradient(45deg, black, transparent);
+    color: #fff;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+    box-shadow: 5px 8px 9px black;
+}
+.card4 h3{
+text-shadow: 6px 2px 3px black;
+    font-size: 45px;
+    color: #fff;
+}
+.card4 p{
+	text-align: justify;
+    padding: 16px;
+}
+.card4 button{
+	background: linear-gradient(45deg, red, transparent);
+    color: #fff;
+    border: none;
+    padding: 10px;
+    margin-bottom: 12px;
+   
+    border-radius: 10px;
+    width: 161px;
+	outline:none;
+	text-transform:capitalize;
+	box-shadow: 5px 6px 4px black;
+}
+.card4 button:hover{
+	background: linear-gradient(to left, rgb(196, 193, 235), transparent);
+}
+.card4 img:hover{
+	    border-radius: 25px;
+		transition:1s;
+}
+/* tem card ses */
+/* about travel */
+.travel{
+    background: url("../imgs/agency.jpg");
+    background-attachment: fixed;
+    position: relative;
+    height: 100%;
+
+}
+.TravelImage{
+    max-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    position: relative;
+
+}
+.PicTxt{
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+.PicTxt h3{
+    color: white;
+}
+.TravelTxt{
+    background: rgba(47, 79, 79, 0.8);
+    padding: 20px 30px; 
+
+}
+.TravelTxt p{
+    font-size:18px;
+    color: #ffffff;
+}
+/* video */
+.vtext{
+    text-align: center;
+    color: yellow;
+}
+.bgcolorvideo{
+    background-color: rgb(245, 76, 98);
+
+}
+.aa{
+    display: inline-flex;
+    width: 100%;
+}
+/* package */
+.nnntext{
+    border-radius: 10px;
+    margin-right: 5px;
+   background-color:rgb(240, 47, 47);
+}
+.nnntext:hover{
+    border-radius: 20px;
+    
+   background-color:rgb(53, 52, 52);
+   padding: 5px;
+   transition: 1s;
+}
+/* package ses */
+/* footer */
+#Footer {
+    background: #111111;
+    border-top: 2px solid #0c0c0c;
+}
+#Footer .ShortLinks .footer-links ul{
+    padding: 10px;
+    margin: 0;
+    
+}
+#Footer .ShortLinks .footer-links ul li{
+    list-style: none;
+    text-decoration: none;
+}
+#Footer .ShortLinks .footer-links ul li a{
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
+#Footer .FooterLogo{
+    display: flex;
+    height: 100%;
+    justify-content: left;
+    align-items: center;
+}
+.Footer-follow i{
+    margin-left: 10px;
+    padding: 10px;
+    background-color: rgb(219, 56, 151);
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.adressfff{
+    
+    color: rgb(247, 243, 243);
+    
+}
+/* footer ses */
+/* registration */
+.blockelement{
+   margin-left: 462px;
+   margin-right: 492px;
+   padding-bottom: 100px;
+   padding-top: 20px;
+   padding-left:115px;
+   padding-right: 0px;
+   border:20px solid black;
+   border-radius: 25px;
+   size: 600px;
+   color: lightsalmon;
+}
+.aaaa{
+    margin-left: 19px!important;
+}
+.aaaaa{
+    
+}
+
+/* font aswome */
+.amarfont{
+    font-family: 'Roboto', sans-serif;
+}
+.smlfont{
+    font-family: 'Open Sans', sans-serif;
+}
+.smcfont{
+    font-family: 'Open Sans', sans-serif; 
+}
+/* font aswome ses */
